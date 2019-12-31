@@ -1,2 +1,3 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# Blog Applicaton - Advanced NodeJS concepts
+## By Michael Claus
+
